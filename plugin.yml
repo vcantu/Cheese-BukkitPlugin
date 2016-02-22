@@ -1,0 +1,7 @@
+name: Cheese
+main: me.wezzyFTW.Cheese
+version: 1.0
+commands:
+   cheese:
+      description: Gives the player cheese.
+      usage: /<command>
